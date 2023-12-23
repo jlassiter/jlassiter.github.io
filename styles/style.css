@@ -8,7 +8,7 @@ body {
 
 .bgimage {
     height: 100vh;
-    background: url('images/heroImage.jpeg');
+    background: url('../images/heroImage.jpeg');
     background-size: cover;
     position: relative;
 }
@@ -61,7 +61,7 @@ body {
     border: 1px solid #0966c2;
 }
 
-.fa-facebook:hover,.fa-instagram:hover,.fa-twitter:hover,.fa-linkedin:hover, .fa-twitch:hover {
+.fa-linkedin:hover {
     color: #0966c2;
 }
 
